@@ -1,0 +1,86 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Document
+Date: Thu, 27 Apr 2023 07:34:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TkDOf20XnXaxJJP2TlCVEAImrwc7Wm8wHCDl3L2bwV----"
+
+
+------MultipartBoundary--TkDOf20XnXaxJJP2TlCVEAImrwc7Wm8wHCDl3L2bwV----
+Content-Type: text/html
+Content-ID: <frame-42E487D2984675E42DC801D3938C661D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+   =20
+<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/style.css?_cacheOver=
+ride=3D1682580728772"></head>
+<body>
+ <!-- <nav>
+    <ul>
+        <li><a href=3D"">About1</a></li>
+        <li><a href=3D"">About2</a></li>
+        <div class=3D"drop">
+        <li><a href=3D"">About3</a></li>
+        <div class=3D"list">
+            <li><a href=3D"">About1</a></li>
+            <li><a href=3D"">About2</a></li>
+            <li><a href=3D"">About2</a></li>
+        </div>
+       </div>
+        <li><a href=3D"">About4</a></li>
+    </ul>
+ </nav> -->
+ <div class=3D"box">
+    <button class=3D"btn">Click me</button>
+ </div>
+
+
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--TkDOf20XnXaxJJP2TlCVEAImrwc7Wm8wHCDl3L2bwV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css?_cacheOverride=1682580728772
+
+@charset "utf-8";
+
+ul li { display: inline-block; padding: 12px 20px; }
+
+a { text-decoration: none; color: rgb(0, 0, 0); }
+
+nav { height: auto; width: 100%; background-color: blue; margin: 0px; paddi=
+ng: 0px; }
+
+.drop { display: inline-block; position: relative; }
+
+.list { display: none; position: absolute; box-shadow: rgb(208, 204, 204) 1=
+px 2px 5px; }
+
+.drop:hover .list { display: block; }
+
+.list li:hover { background-color: rgb(207, 226, 241); }
+
+body { display: flex; justify-content: center; align-items: center; backgro=
+und-color: rgb(0, 0, 0); height: 100vh; width: 100%; }
+
+.box { width: 300px; height: 200px; background-color: aliceblue; position: =
+relative; }
+
+.btn { background-color: red; border: none; padding: 10px 20px; border-radi=
+us: 4px; margin: 20px; color: rgb(255, 255, 255); font-size: larger; positi=
+on: absolute; }
+
+.btn:hover { top: 2px; }
+------MultipartBoundary--TkDOf20XnXaxJJP2TlCVEAImrwc7Wm8wHCDl3L2bwV------
